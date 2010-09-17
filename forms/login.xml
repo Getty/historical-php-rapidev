@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<form id="login" submitvalue="LOGIN_SUBMIT" defaulterror="LOGIN_FAILED">
+	<element type="text" id="Username" name="USERNAME" />
+	<element type="password" id="Password" name="PASSWORD">
+		<validator type="notempty" />
+	</element>
+</form>

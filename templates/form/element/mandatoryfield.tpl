@@ -1,0 +1,1 @@
+<@ if $element|@wx_formElementHasValidator:'notempty' @><@ include file="form/element/mandatoryfield/sign.tpl" @><@ /if @>

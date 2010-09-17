@@ -1,0 +1,1 @@
+<input type="hidden" id="<@ $element.field @>" name="<@ $element.field @>" value="<@ $element.value @>" />

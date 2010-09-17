@@ -1,0 +1,1 @@
+<input type="password" id="<@ $element.field @>" name="<@ $element.field @>" />

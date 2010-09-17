@@ -1,0 +1,37 @@
+.form_row {
+	position: relative;
+	overflow: hidden;
+	border: 0px solid black;
+	width: 100%;
+	margin-bottom: 10px;
+}
+
+.form_name, .form_submit {
+	position: relative;
+	width: 40%;
+	float: left;
+	border: 0px solid green;
+}
+
+.form_name {
+
+}
+
+.form_submit {
+	
+}
+
+.form_type, .form_error {
+	position: relative;
+	width: 59%;
+	float: right;
+	border: 0px solid red;
+}
+
+.form_type {
+
+}
+
+.form_error {
+
+}
